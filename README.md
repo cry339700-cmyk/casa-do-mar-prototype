@@ -4,6 +4,8 @@
 
 零依赖、零构建：没有 npm 安装、没有打包器，双击 `index.html` 就能跑。
 
+**已上线**：https://cry339700-cmyk.github.io/casa-do-mar-prototype/ ——部署、更新、换托管商、绑域名、上线前清单见 [DEPLOY.md](DEPLOY.md)。
+
 ```
 apartments-site/
 ├── index.html            # 唯一的 HTML 外壳（含首屏前解析配色的内联脚本）
